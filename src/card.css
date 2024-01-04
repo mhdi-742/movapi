@@ -1,0 +1,23 @@
+.items{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:10px;
+}
+.card{
+    margin-left: 75px;
+    background: gray;
+    height: 600px;
+    width:500px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+.poster1
+{
+    height: 500px;
+    width:350px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
